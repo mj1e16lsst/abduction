@@ -1,0 +1,1307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="color" attr.type="string" for="edge" id="d2" />
+  <key attr.name="penwidth" attr.type="long" for="edge" id="d1" />
+  <key attr.name="fontname" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <node id="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d0">Helvetica</data>
+    </node>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,8)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;Planet&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;medium&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,1)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;Sun&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">blue</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;big&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">orange</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;-&quot;,2)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;Moon&quot;,&quot;-&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+    <edge source="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)" target="row0(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row1(&quot;-&quot;,&quot;-&quot;,&quot;-&quot;)&#10;row2(&quot;-&quot;,&quot;small&quot;,&quot;-&quot;)">
+      <data key="d1">2</data>
+      <data key="d2">red</data>
+    </edge>
+  </graph>
+</graphml>
