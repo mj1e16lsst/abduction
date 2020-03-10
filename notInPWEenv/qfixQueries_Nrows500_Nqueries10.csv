@@ -1,0 +1,80 @@
+UPDATE synth_1_clean_0 SET a1 = 95, a2 = 91 WHERE a1 = 3 AND a5 = 2
+UPDATE synth_1_clean_1 SET a1 = 38, a2 = 21 WHERE a1 >= 38 AND a1 < 48 AND a4 >= 2 AND a4 < 12
+INSERT INTO synth_1_clean_2 VALUES(50,44,50,23,23,22,46)
+INSERT INTO synth_1_clean_3 VALUES(51,2,84,56,64,18,100)
+UPDATE synth_1_clean_4 SET a1 = 33, a2 = 72 WHERE a1 = 71 AND a5 = 94
+UPDATE synth_1_clean_5 SET a1 = 67, a2 = 30 WHERE a1 >= 53 AND a1 < 63 AND a4 >= 80 AND a4 < 90
+UPDATE synth_1_clean_6 SET a1 = 59, a2 = 3 WHERE a1 >= 22 AND a1 < 32 AND a4 >= 72 AND a4 < 82
+UPDATE synth_1_clean_7 SET a1 = 55, a2 = 71 WHERE a1 = 68 AND a5 = 37
+UPDATE synth_1_clean_8 SET a1 = 78, a2 = 52 WHERE a1 >= 35 AND a1 < 45 AND a4 >= 44 AND a4 < 54
+INSERT INTO synth_1_clean_9 VALUES(52,4,71,99,59,39,17)
+UPDATE synth_1_dirty_0 SET a1 = 95, a2 = 27 WHERE a1 = 96 AND a5 = 2
+UPDATE synth_1_dirty_1 SET a1 = 38, a2 = 21 WHERE a1 >= 38 AND a1 < 48 AND a4 >= 2 AND a4 < 12
+INSERT INTO synth_1_dirty_2 VALUES(50,44,50,23,23,22,46)
+INSERT INTO synth_1_dirty_3 VALUES(51,2,84,56,64,18,100)
+UPDATE synth_1_dirty_4 SET a1 = 33, a2 = 72 WHERE a1 = 71 AND a5 = 94
+UPDATE synth_1_dirty_5 SET a1 = 67, a2 = 30 WHERE a1 >= 53 AND a1 < 63 AND a4 >= 80 AND a4 < 90
+UPDATE synth_1_dirty_6 SET a1 = 59, a2 = 3 WHERE a1 >= 22 AND a1 < 32 AND a4 >= 72 AND a4 < 82
+UPDATE synth_1_dirty_7 SET a1 = 55, a2 = 71 WHERE a1 = 68 AND a5 = 37
+UPDATE synth_1_dirty_8 SET a1 = 78, a2 = 52 WHERE a1 >= 35 AND a1 < 45 AND a4 >= 44 AND a4 < 54
+INSERT INTO synth_1_dirty_9 VALUES(52,4,71,99,59,39,17)
+UPDATE synth_2_clean_0 SET a2 = 54, a1 = 44 WHERE a4 >= 24 AND a4 < 34 AND a2 >= 3 AND a2 < 13
+INSERT INTO synth_2_clean_1 VALUES(50,46,32,38,90,53,56)
+INSERT INTO synth_2_clean_2 VALUES(51,2,32,13,51,100,68)
+INSERT INTO synth_2_clean_3 VALUES(52,90,80,74,91,77,79)
+UPDATE synth_2_clean_4 SET a2 = 97, a1 = 16 WHERE a4 >= 68 AND a4 < 78 AND a2 >= 65 AND a2 < 75
+UPDATE synth_2_clean_5 SET a2 = 49, a1 = 93 WHERE a4 >= 45 AND a4 < 55 AND a2 >= 75 AND a2 < 85
+UPDATE synth_2_clean_6 SET a2 = 90, a1 = 46 WHERE a4 >= 51 AND a4 < 61 AND a2 >= 83 AND a2 < 93
+UPDATE synth_2_clean_7 SET a2 = 22, a1 = 32 WHERE a0 = 70 AND a2 = 16
+UPDATE synth_2_clean_8 SET a2 = 92, a1 = 31 WHERE a0 = 96 AND a2 = 71
+UPDATE synth_2_clean_9 SET a2 = 65, a1 = 59 WHERE a4 >= 28 AND a4 < 38 AND a2 >= 18 AND a2 < 28
+UPDATE synth_2_dirty_0 SET a2 = 54, a1 = 44 WHERE a4 >= 24 AND a4 < 34 AND a2 >= 3 AND a2 < 13
+INSERT INTO synth_2_dirty_1 VALUES(50,46,32,38,90,53,56)
+INSERT INTO synth_2_dirty_2 VALUES(51,2,32,10,51,100,68)
+INSERT INTO synth_2_dirty_3 VALUES(52,90,80,74,91,77,79)
+UPDATE synth_4_clean_6 SET a3 = 100, a2 = 19 WHERE a1 = 41 AND a0 = 20
+UPDATE synth_2_dirty_4 SET a2 = 97, a1 = 16 WHERE a4 >= 68 AND a4 < 78 AND a2 >= 65 AND a2 < 75
+UPDATE synth_2_dirty_5 SET a2 = 49, a1 = 93 WHERE a4 >= 45 AND a4 < 55 AND a2 >= 75 AND a2 < 85
+UPDATE synth_2_dirty_6 SET a2 = 90, a1 = 46 WHERE a4 >= 51 AND a4 < 61 AND a2 >= 83 AND a2 < 93
+UPDATE synth_2_dirty_7 SET a2 = 22, a1 = 32 WHERE a0 = 70 AND a2 = 16
+UPDATE synth_2_dirty_8 SET a2 = 92, a1 = 31 WHERE a0 = 96 AND a2 = 71
+UPDATE synth_2_dirty_9 SET a2 = 65, a1 = 59 WHERE a4 >= 28 AND a4 < 38 AND a2 >= 18 AND a2 < 28
+INSERT INTO synth_3_clean_0 VALUES(50,64,87,52,74,67,6)
+UPDATE synth_3_clean_1 SET a0 = 30, a4 = 3 WHERE a0 >= 78 AND a0 < 88 AND a4 >= 43 AND a4 < 53
+UPDATE synth_3_clean_2 SET a0 = 72, a4 = 93 WHERE a0 >= 35 AND a0 < 45 AND a4 >= 72 AND a4 < 82
+UPDATE synth_3_clean_3 SET a0 = 88, a4 = 9 WHERE a0 >= 12 AND a0 < 22 AND a4 >= 19 AND a4 < 29
+UPDATE synth_3_clean_4 SET a0 = 63, a4 = 30 WHERE a1 = 51 AND a2 = 38
+UPDATE synth_3_clean_5 SET a0 = 59, a4 = 91 WHERE a0 >= 62 AND a0 < 72 AND a4 >= 84 AND a4 < 94
+UPDATE synth_3_clean_6 SET a0 = 67, a4 = 16 WHERE a0 >= 78 AND a0 < 88 AND a4 >= 87 AND a4 < 97
+UPDATE synth_3_clean_7 SET a0 = 72, a4 = 21 WHERE a0 >= 75 AND a0 < 85 AND a4 >= 52 AND a4 < 62
+INSERT INTO synth_3_clean_8 VALUES(51,6,86,99,8,80,41)
+INSERT INTO synth_3_clean_9 VALUES(52,29,77,88,4,62,4)
+INSERT INTO synth_3_dirty_0 VALUES(50,64,87,52,74,67,6)
+UPDATE synth_3_dirty_1 SET a0 = 30, a4 = 3 WHERE a0 >= 78 AND a0 < 88 AND a4 >= 43 AND a4 < 53
+UPDATE synth_3_dirty_2 SET a0 = 72, a4 = 93 WHERE a0 >= 35 AND a0 < 45 AND a4 >= 72 AND a4 < 82
+UPDATE synth_3_dirty_3 SET a0 = 88, a4 = 9 WHERE a0 >= 12 AND a0 < 22 AND a4 >= 19 AND a4 < 29
+UPDATE synth_3_dirty_4 SET a0 = 63, a4 = 30 WHERE a1 = 51 AND a2 = 38
+UPDATE synth_3_dirty_5 SET a0 = 59, a4 = 91 WHERE a0 >= 62 AND a0 < 72 AND a4 >= 84 AND a4 < 94
+UPDATE synth_3_dirty_6 SET a0 = 67, a4 = 16 WHERE a0 >= 78 AND a0 < 88 AND a4 >= 87 AND a4 < 97
+UPDATE synth_3_dirty_7 SET a0 = 72, a4 = 21 WHERE a0 >= 75 AND a0 < 85 AND a4 >= 52 AND a4 < 62
+INSERT INTO synth_3_dirty_8 VALUES(51,6,86,4,8,80,41)
+INSERT INTO synth_3_dirty_9 VALUES(52,29,77,88,4,62,4)
+UPDATE synth_4_clean_0 SET a3 = 81, a2 = 80 WHERE a4 >= 17 AND a4 < 27 AND a2 >= 28 AND a2 < 38
+UPDATE synth_4_clean_1 SET a3 = 86, a2 = 88 WHERE a4 >= 7 AND a4 < 17 AND a2 >= 55 AND a2 < 65
+UPDATE synth_4_clean_2 SET a3 = 17, a2 = 47 WHERE a4 >= 8 AND a4 < 18 AND a2 >= 85 AND a2 < 95
+UPDATE synth_4_clean_3 SET a3 = 30, a2 = 91 WHERE a4 >= 52 AND a4 < 62 AND a2 >= 80 AND a2 < 90
+UPDATE synth_4_clean_4 SET a3 = 41, a2 = 60 WHERE a4 >= 39 AND a4 < 49 AND a2 >= 14 AND a2 < 24
+INSERT INTO synth_4_clean_5 VALUES(50,82,4,4,63,28,53)
+UPDATE synth_4_clean_7 SET a3 = 35, a2 = 75 WHERE a1 = 32 AND a0 = 56
+UPDATE synth_4_clean_8 SET a3 = 6, a2 = 23 WHERE a1 = 77 AND a0 = 62
+INSERT INTO synth_4_clean_9 VALUES(51,33,17,46,4,70,90)
+UPDATE synth_4_dirty_0 SET a3 = 81, a2 = 80 WHERE a4 >= 17 AND a4 < 27 AND a2 >= 28 AND a2 < 38
+UPDATE synth_4_dirty_1 SET a3 = 86, a2 = 88 WHERE a4 >= 7 AND a4 < 17 AND a2 >= 55 AND a2 < 65
+UPDATE synth_4_dirty_2 SET a3 = 17, a2 = 47 WHERE a4 >= 8 AND a4 < 18 AND a2 >= 85 AND a2 < 95
+UPDATE synth_4_dirty_3 SET a3 = 30, a2 = 91 WHERE a4 >= 52 AND a4 < 62 AND a2 >= 80 AND a2 < 90
+UPDATE synth_4_dirty_4 SET a3 = 41, a2 = 60 WHERE a4 >= 39 AND a4 < 49 AND a2 >= 14 AND a2 < 24
+INSERT INTO synth_4_dirty_5 VALUES(50,82,4,4,63,28,53)
+UPDATE synth_4_dirty_6 SET a3 = 100, a2 = 19 WHERE a1 = 41 AND a0 = 20
+UPDATE synth_4_dirty_7 SET a3 = 35, a2 = 75 WHERE a1 = 32 AND a0 = 56
+UPDATE synth_4_dirty_8 SET a3 = 82, a2 = 23 WHERE a1 = 77 AND a0 = 19
+INSERT INTO synth_4_dirty_9 VALUES(51,33,17,46,4,70,90)
