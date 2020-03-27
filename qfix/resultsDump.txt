@@ -277,3 +277,68 @@ nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
 /home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
 /home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30.csv
 
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+283 & 282 & 72 & 168 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows100_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+283 & 282 & 72 & 168 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows100_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+283 & 282 & 72 & 168 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows100_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+207 & 206 & 72 & 168 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows50_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+272 & 271 & 72 & 168 & 9 & 1 & 6
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+272 & 271 & 72 & 168 & 9 & 1 & 6
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+272 & 271 & 72 & 168 & 9 & 1 & 6
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+249 & 248 & 22 & 58 & 7 & 1 & 5
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+1586 & 1585 & 72 & 168 & 7 & 1 & 6
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+1500 & 1499 & 72 & 168 & 7 & 1 & 6
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+1500 & 1499 & 72 & 168 & 7 & 1 & 6
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+1500 & 1499 & 72 & 168 & 7 & 1 & 6
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+1500 & 1499 & 72 & 168 & 7 & 1 & 6
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+

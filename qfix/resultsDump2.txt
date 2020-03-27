@@ -1,0 +1,290 @@
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+22 & 21 & 22 & 58 & 3 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+22 & 21 & 3 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+37 & 36 & 6 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows50_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+50 & 49 & 6 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows100_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+71 & 70 & 7 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+89 & 88 & 7 & 1 & 3
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows50_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+112 & 111 & 7 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows100_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+175 & 174 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+207 & 206 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows50_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+283 & 282 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows100_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+22 & 21 & 3 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+22 & 21 & 3 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+22 & 21 & 3 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+22 & 21 & 3 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+22 & 21 & 3 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+22 & 21 & 3 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+22 & 21 & 3 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+22 & 21 & 3 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+37 & 36 & 6 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows50_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+37 & 36 & 6 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows50_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+37 & 36 & 6 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows50_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+37 & 36 & 6 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows50_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+37 & 36 & 6 & 1 & 2
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+50 & 49 & 6 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows100_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+50 & 49 & 6 & 1 & 2
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+50 & 49 & 6 & 1 & 2
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+50 & 49 & 6 & 1 & 2
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries10Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+71 & 70 & 7 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+71 & 70 & 7 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+71 & 70 & 7 & 1 & 2
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+71 & 70 & 7 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+71 & 70 & 7 & 1 & 2
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+89 & 88 & 7 & 1 & 3
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows50_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+89 & 88 & 7 & 1 & 3
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows50_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+89 & 88 & 7 & 1 & 3
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows50_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+89 & 88 & 7 & 1 & 3
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+89 & 88 & 7 & 1 & 3
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+89 & 88 & 7 & 1 & 3
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+112 & 111 & 7 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows100_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+112 & 111 & 7 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows100_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+112 & 111 & 7 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows100_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+112 & 111 & 7 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows100_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+112 & 111 & 7 & 1 & 2
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows100_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries20Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+175 & 174 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+175 & 174 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+175 & 174 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+175 & 174 & 7 & 1 & 4
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+175 & 174 & 7 & 1 & 4
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+175 & 174 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+207 & 206 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows50_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+207 & 206 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows50_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+207 & 206 & 7 & 1 & 4
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+207 & 206 & 7 & 1 & 4
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+283 & 282 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows100_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+283 & 282 & 7 & 1 & 4
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+283 & 282 & 7 & 1 & 4
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+283 & 282 & 7 & 1 & 4
+testData.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
+nodeNum,edgeNum,insertQueries,updateQueries,longPath,smallPath,medianPath
+175 & 174 & 7 & 1 & 4
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixData_Nrows10_Nqueries10.csv
+/home/mj1e16/abduction/pwe/jupyterNotebooks/notInPWEenv/qfixQueries_Nrows10_Nqueries30Save.csv
+
