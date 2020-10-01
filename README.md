@@ -12,8 +12,8 @@ This project is a collection of implementations of the possible world explorer (
 ----------
 
  The following datasets were evaluated using the above procedue:
-  - toyDataSet, a simple relational database contructed using values from (citation needed). Allowed transformations were SQL SELECT, PROJECT, and UPDATE commands.
-  - qfix, a relational database example from [1]. Allowed transformations were SQL SELECT, PROJECT, and UPDATE commands.
+  - toyDataSet, a simple relational database contructed using values from ([1]). Allowed transformations were SQL SELECT, PROJECT, and UPDATE commands.
+  - qfix, a relational database example from [2]. Allowed transformations were SQL SELECT, PROJECT, and UPDATE commands.
   - flights, a database of flight logs from https://figshare.com/articles/flights_csv/9820139/1. Allowed transformations are airport-to-airport flight rountes
   
 # Required Packages
@@ -45,6 +45,8 @@ This project is a collection of implementations of the possible world explorer (
 # References
 ------------
   
- [1] Wang, X., Meliou, A. and Wu, E., 2017, May. QFix: Diagnosing errors through query histories. In Proceedings of the 2017 ACM International Conference on Management of Data (pp. 1369-1384).
+ [1]Rezig, E.K., Ouzzani, M., Elmagarmid, A.K., Aref, W.G. and Stonebraker, M., 2019, July. Towards an End-to-End Human-Centric Data Cleaning Framework. In Proceedings of the Workshop on Human-In-the-Loop Data Analytics (pp. 1-7).
+  
+ [2] Wang, X., Meliou, A. and Wu, E., 2017, May. QFix: Diagnosing errors through query histories. In Proceedings of the 2017 ACM International Conference on Management of Data (pp. 1369-1384).
 
 
